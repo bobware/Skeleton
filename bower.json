@@ -4,12 +4,13 @@
   "homepage": "http://getskeleton.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhg/Skeleton"
+    "url": "https://github.com/bobware/Skeletor"
   },
   "authors": [
-    "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
+    "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)",
+    "Bob Ware <jrbobware@gmail.com> (http://8-b.co/)"
   ],
-  "description": "Skeleton is a dead-simple, responsive boilerplate to kickstart any responsive project.",
+  "description": "Skeletor is a dead-simple, responsive boilerplate to kickstart any responsive project.",
   "main": "css/skeleton.css",
   "keywords": [
     "css",

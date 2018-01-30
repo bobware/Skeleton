@@ -1,1 +1,16 @@
+# Jobs!!!!
 .DS_Store
+
+# node...modules
+node_modules
+
+# it's where we store clever remarks
+.sass-cache
+
+# don't care about no Sublime project or workspace files
+*.sublime-project
+*.sublime-workspace
+
+# similarly, ignore files prefixed with 'bak_' and/or with extension '.bak'
+bak_*
+*.bak
